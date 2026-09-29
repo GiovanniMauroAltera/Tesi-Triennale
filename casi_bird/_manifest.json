@@ -1,0 +1,300 @@
+{
+  "riusciti": [
+    {
+      "question_id": 11,
+      "db_id": "california_schools",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\11_california_schools.sqlite",
+      "tabelle_sorgente": [
+        "frpm",
+        "schools"
+      ]
+    },
+    {
+      "question_id": 1346,
+      "db_id": "student_club",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\1346_student_club.sqlite",
+      "tabelle_sorgente": [
+        "member"
+      ]
+    },
+    {
+      "question_id": 977,
+      "db_id": "formula_1",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\977_formula_1.sqlite",
+      "tabelle_sorgente": [
+        "results"
+      ]
+    },
+    {
+      "question_id": 1133,
+      "db_id": "european_football_2",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\1133_european_football_2.sqlite",
+      "tabelle_sorgente": [
+        "Player"
+      ]
+    },
+    {
+      "question_id": 945,
+      "db_id": "formula_1",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\945_formula_1.sqlite",
+      "tabelle_sorgente": [
+        "circuits"
+      ]
+    },
+    {
+      "question_id": 671,
+      "db_id": "codebase_community",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\671_codebase_community.sqlite",
+      "tabelle_sorgente": [
+        "badges",
+        "users"
+      ]
+    },
+    {
+      "question_id": 424,
+      "db_id": "card_games",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\424_card_games.sqlite",
+      "tabelle_sorgente": [
+        "cards"
+      ]
+    },
+    {
+      "question_id": 1394,
+      "db_id": "student_club",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\1394_student_club.sqlite",
+      "tabelle_sorgente": [
+        "major",
+        "member"
+      ]
+    },
+    {
+      "question_id": 227,
+      "db_id": "toxicology",
+      "difficulty": "simple",
+      "percorso": "casi_bird\\227_toxicology.sqlite",
+      "tabelle_sorgente": [
+        "molecule"
+      ]
+    },
+    {
+      "question_id": 1136,
+      "db_id": "european_football_2",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\1136_european_football_2.sqlite",
+      "tabelle_sorgente": [
+        "Player_Attributes"
+      ]
+    },
+    {
+      "question_id": 117,
+      "db_id": "financial",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\117_financial.sqlite",
+      "tabelle_sorgente": [
+        "loan"
+      ]
+    },
+    {
+      "question_id": 479,
+      "db_id": "card_games",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\479_card_games.sqlite",
+      "tabelle_sorgente": [
+        "cards",
+        "sets"
+      ]
+    },
+    {
+      "question_id": 931,
+      "db_id": "formula_1",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\931_formula_1.sqlite",
+      "tabelle_sorgente": [
+        "races",
+        "results"
+      ]
+    },
+    {
+      "question_id": 1150,
+      "db_id": "thrombosis_prediction",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\1150_thrombosis_prediction.sqlite",
+      "tabelle_sorgente": [
+        "Patient"
+      ]
+    },
+    {
+      "question_id": 1068,
+      "db_id": "european_football_2",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\1068_european_football_2.sqlite",
+      "tabelle_sorgente": [
+        "Player_Attributes",
+        "Player"
+      ]
+    },
+    {
+      "question_id": 79,
+      "db_id": "california_schools",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\79_california_schools.sqlite",
+      "tabelle_sorgente": [
+        "schools"
+      ]
+    },
+    {
+      "question_id": 119,
+      "db_id": "financial",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\119_financial.sqlite",
+      "tabelle_sorgente": [
+        "account",
+        "district"
+      ]
+    },
+    {
+      "question_id": 529,
+      "db_id": "card_games",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\529_card_games.sqlite",
+      "tabelle_sorgente": [
+        "sets",
+        "set_translations"
+      ]
+    },
+    {
+      "question_id": 483,
+      "db_id": "card_games",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\483_card_games.sqlite",
+      "tabelle_sorgente": [
+        "cards",
+        "foreign_data",
+        "sets"
+      ]
+    },
+    {
+      "question_id": 892,
+      "db_id": "formula_1",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\892_formula_1.sqlite",
+      "tabelle_sorgente": [
+        "drivers",
+        "races",
+        "driverStandings"
+      ]
+    },
+    {
+      "question_id": 1209,
+      "db_id": "thrombosis_prediction",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\1209_thrombosis_prediction.sqlite",
+      "tabelle_sorgente": [
+        "Patient",
+        "Laboratory"
+      ]
+    },
+    {
+      "question_id": 1390,
+      "db_id": "student_club",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\1390_student_club.sqlite",
+      "tabelle_sorgente": [
+        "event",
+        "budget",
+        "expense"
+      ]
+    },
+    {
+      "question_id": 98,
+      "db_id": "financial",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\98_financial.sqlite",
+      "tabelle_sorgente": [
+        "account",
+        "loan",
+        "order"
+      ]
+    },
+    {
+      "question_id": 24,
+      "db_id": "california_schools",
+      "difficulty": "moderate",
+      "percorso": "casi_bird\\24_california_schools.sqlite",
+      "tabelle_sorgente": [
+        "frpm",
+        "satscores"
+      ]
+    },
+    {
+      "question_id": 1242,
+      "db_id": "thrombosis_prediction",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\1242_thrombosis_prediction.sqlite",
+      "tabelle_sorgente": [
+        "Patient",
+        "Laboratory"
+      ]
+    },
+    {
+      "question_id": 1042,
+      "db_id": "european_football_2",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\1042_european_football_2.sqlite",
+      "tabelle_sorgente": [
+        "League",
+        "Match"
+      ]
+    },
+    {
+      "question_id": 1011,
+      "db_id": "formula_1",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\1011_formula_1.sqlite",
+      "tabelle_sorgente": [
+        "drivers",
+        "lapTimes"
+      ]
+    },
+    {
+      "question_id": 1076,
+      "db_id": "european_football_2",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\1076_european_football_2.sqlite",
+      "tabelle_sorgente": [
+        "Player_Attributes",
+        "Player"
+      ]
+    },
+    {
+      "question_id": 775,
+      "db_id": "superhero",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\775_superhero.sqlite",
+      "tabelle_sorgente": [
+        "colour",
+        "gender",
+        "superhero"
+      ]
+    },
+    {
+      "question_id": 212,
+      "db_id": "toxicology",
+      "difficulty": "challenging",
+      "percorso": "casi_bird\\212_toxicology.sqlite",
+      "tabelle_sorgente": [
+        "atom",
+        "molecule"
+      ]
+    }
+  ],
+  "falliti": []
+}
